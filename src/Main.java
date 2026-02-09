@@ -12,6 +12,7 @@ public class Main {
         int birthMonth = 4;
         String fullName = "Tyler Humfleet";
 
+        test = 1 * 1500000000000000000000000
 
         //TIP
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
