@@ -1,8 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        String test = "tests";
+
         double myLunchCost = 12.50;
         int numberOfKids = 0;
         boolean isItRaining = false;
@@ -11,8 +9,6 @@ public class Main {
         int shoeSize = 12;
         int birthMonth = 4;
         String fullName = "Tyler Humfleet";
-
-        test = 1 * 1500000000000000000000000
 
         //TIP
         //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
